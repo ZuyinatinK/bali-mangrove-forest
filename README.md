@@ -1,0 +1,2 @@
+<p align="center"><a href="https://github.com/ZuyinatinK/bali-mangrove-forest"><img alt="Visit Bali’s Mangrove Forest" src="assets/img/logo-mg.png" width="150vw"/></a></p>
+<h1 align="center">Visit Bali’s Mangrove Forest</h1>
